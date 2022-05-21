@@ -25,4 +25,4 @@ jobs:
         uses: docker/build-push-action@v2
         with:
           push: true
-          tags: wyh007/V2cn
+          tags: wyh007/v2cn
